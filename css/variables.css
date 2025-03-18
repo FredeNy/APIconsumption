@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DynaPuff:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playpen+Sans:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playpen+Sans:wght@100..800&display=swap');
+
+
+:root {
+    --colorTextSecondary: rgb(235, 235, 235);
+
+    --colorPrimary: black;
+    --colorSecondary: #2f0d1d;
+    --colorTertiary: #531e38;
+    --colorBgNav: #901212;
+    --colorNavHover:#e8e4af;
+
+    --fontHeader: 'DM Serif Display', Arial, Helvetica, sans-serif;
+    --fontText: 'Open Sans', Arial, Helvetica, sans-serif;
+
+    --maxWidth: 1024px;
+
+}
